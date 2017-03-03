@@ -5,6 +5,8 @@ date:   2017-03-01 19:34:24 -0800
 categories: deeplearning classes tutorials
 ---
 
+(Orignally posted on Quora as an answer to ["How do I learn deep learning in 2 months?"](https://www.quora.com/How-do-I-learn-deep-learning-in-2-months/answer/Vivek-Kumar-893))
+
 If you have coding experience and have an engineering background or apropriate basis in mathematics and computer science, 2 months are all you need to gain proficeny in deep learning. Here's a four step process to follow
 
 Still need motivation to get started with Deep Learning, check out the following video by Andrew Ng
@@ -170,13 +172,12 @@ For more inspiration, take a look at CS231n [Winter
 Kaggle and HackerRank competitions for fun stuff and the opportunities to
 compete and learn.
 
-## Additional Resources
+## Continue Learning
 
 Here are some pointers to help you with continuous learning
 
-* Read some excellent blogs. Both [Christopher Olah’s
-blog](https://christopherolah.wordpress.com/) & [Andrew Karpathy’s
-Blog](http://karpathy.github.io/) do a great job of explaining basic concepts
+* Read some excellent blogs. Both [Christopher Olah's blog](https://christopherolah.wordpress.com/) & 
+[Andrew Karpathy's Blog](http://karpathy.github.io/) do a great job of explaining basic concepts
 and recent breakthrus
 * Follow influencers on Twitter. Here are a few to get started @drfeifei, @ylecun,
 @karpathy, @AndrewYNg, @Kdnuggets, @OpenAI, @googleresearch. (see: [Who to
@@ -192,13 +193,3 @@ See
 [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning),
 a curated list of awesome Deep Learning tutorials, projects and communities for
 more fun
-
-* [Machine Learning](https://medium.com/tag/machine-learning?source=post)
-* [Artificial
-Intelligence](https://medium.com/tag/artificial-intelligence?source=post)
-* [Deep Learning](https://medium.com/tag/deep-learning?source=post)
-* [Neural Networks](https://medium.com/tag/neural-networks?source=post)
-* [Deep Neural Networks](https://medium.com/tag/deep-neural-networks?source=post)
-
-## [Vivek Kumar](https://medium.com/@vzkuma)
-
