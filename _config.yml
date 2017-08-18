@@ -16,7 +16,7 @@
 title: Vivek Kumar Blog
 email: 
 description:  "Learning Deep Learning"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://v1vekkumar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vivek_kumar
 github_username:  v1vekkumar
