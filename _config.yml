@@ -23,7 +23,7 @@ github_username:  v1vekkumar
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
 exclude:
