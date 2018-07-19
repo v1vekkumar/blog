@@ -17,8 +17,8 @@ title: Vivek Kumar Blog
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   Deep Learning Blog
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://v1vekkumar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://blog.v1vek.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vivek_kumar
 github_username:  v1vekkumar
 
